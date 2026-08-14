@@ -14,8 +14,8 @@ using it "correctly."
 
 | Folder | What's in it |
 |---|---|
-| [`job_hunting_tools/`](./job_hunting_tools/) | Editable tools for running a job search — currently an Excel application tracker with a self-updating dashboard and funnel stats. |
-| [`drum_related/`](./drum_related/) | Reference material for drummers — currently a detailed breakdown of Superior Drummer 3's sound packs, instrument by instrument. |
+| [`Job_hunting_tools/`](./Job_hunting_tools/) | Editable tools for running a job search — currently an Excel application tracker with a self-updating dashboard and funnel stats. |
+| [`Drum_related/`](./Drum_related/) | Reference material for drummers — currently a detailed breakdown of Superior Drummer 3's sound packs, instrument by instrument. |
 
 More drawers get added over time. Each folder has its own README explaining what's
 inside and how to use it.
